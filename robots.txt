@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ongyrand.github.io/sitemap.html.gz
+Sitemap: https://ongyrand.github.io/app/sitemap.html.gz
+Sitemap: https://ongyrand.github.io/assets/sitemap.html.gz
+Sitemap: https://ongyrand.github.io/css/sitemap.html.gz
+Sitemap: https://ongyrand.github.io/includes/sitemap.html.gz
+Sitemap: https://ongyrand.github.io/item/sitemap.html.gz
+Sitemap: https://ongyrand.github.io/src/sitemap.html.gz
